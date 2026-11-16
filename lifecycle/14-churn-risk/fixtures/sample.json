@@ -1,0 +1,15 @@
+{
+  "drop_limit": 0.6,
+  "accounts": [
+    {
+      "name": "Northline",
+      "prior_week": 100,
+      "latest_week": 40
+    },
+    {
+      "name": "Keel Studio",
+      "prior_week": 80,
+      "latest_week": 76
+    }
+  ]
+}
