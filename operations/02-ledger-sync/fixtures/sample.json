@@ -1,0 +1,18 @@
+{
+  "accounts": {
+    "hosting": "6100",
+    "supplies": "6200"
+  },
+  "transactions": [
+    {
+      "id": "t1",
+      "category": "hosting",
+      "amount": 42.0
+    },
+    {
+      "id": "t2",
+      "category": "uncategorized",
+      "amount": 14.0
+    }
+  ]
+}
