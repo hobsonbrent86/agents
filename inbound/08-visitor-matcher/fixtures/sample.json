@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "id": "p1",
+      "email": "ada@northline.example",
+      "account_id": "a1"
+    }
+  ],
+  "accounts": [
+    {
+      "id": "a1",
+      "domain": "northline.example"
+    }
+  ],
+  "visits": [
+    {
+      "visit_id": "v1",
+      "email": "ada@northline.example",
+      "domain": ""
+    },
+    {
+      "visit_id": "v2",
+      "email": "",
+      "domain": "northline.example"
+    },
+    {
+      "visit_id": "v3",
+      "email": "",
+      "domain": "unknown.example"
+    }
+  ]
+}
