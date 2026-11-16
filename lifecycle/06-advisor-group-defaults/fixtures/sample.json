@@ -1,0 +1,8 @@
+{
+  "group": {
+    "email": "advisors@northline.example",
+    "join": "open",
+    "reply_to": "sender",
+    "moderation": "off"
+  }
+}
