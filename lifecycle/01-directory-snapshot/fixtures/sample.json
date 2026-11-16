@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "email": "ada@northline.example",
+      "mfa": true,
+      "groups": [
+        "ops"
+      ]
+    },
+    {
+      "email": "sam@northline.example",
+      "mfa": false,
+      "groups": [
+        "ops",
+        "finance"
+      ]
+    }
+  ]
+}
