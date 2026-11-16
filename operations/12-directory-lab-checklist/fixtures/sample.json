@@ -1,0 +1,17 @@
+{
+  "forest": "corp.lab.example",
+  "steps": [
+    {
+      "name": "Create forest",
+      "done": true
+    },
+    {
+      "name": "Add UPN suffix lab.example",
+      "done": true
+    },
+    {
+      "name": "Join a test PC",
+      "done": false
+    }
+  ]
+}
