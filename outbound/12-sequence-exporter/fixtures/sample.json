@@ -1,0 +1,24 @@
+{
+  "sequences": [
+    {
+      "name": "Operators",
+      "status": "active",
+      "steps": [
+        {
+          "channel": "email",
+          "body": "Quick note."
+        }
+      ]
+    },
+    {
+      "name": "Old test",
+      "status": "paused",
+      "steps": [
+        {
+          "channel": "email",
+          "body": "Ignore."
+        }
+      ]
+    }
+  ]
+}
