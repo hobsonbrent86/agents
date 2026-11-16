@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "outlet": "Daily North",
+      "leaning": "center",
+      "title": "Ports delay freight after storm"
+    },
+    {
+      "outlet": "Left Ledger",
+      "leaning": "left",
+      "title": "Storm delay hits freight workers"
+    },
+    {
+      "outlet": "Right Rail",
+      "leaning": "right",
+      "title": "City council passes transit tax"
+    }
+  ]
+}
