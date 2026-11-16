@@ -1,0 +1,32 @@
+{
+  "ours": [
+    "product",
+    "pricing"
+  ],
+  "peers": [
+    {
+      "host": "brightroute.example",
+      "types": [
+        "product",
+        "pricing",
+        "trust"
+      ]
+    },
+    {
+      "host": "yardline.example",
+      "types": [
+        "product",
+        "solutions",
+        "trust"
+      ]
+    },
+    {
+      "host": "keel.example",
+      "types": [
+        "product",
+        "trust",
+        "customers"
+      ]
+    }
+  ]
+}
