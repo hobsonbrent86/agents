@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "from": "billing@vendor.example",
+      "forward_to": "ap@northline.example"
+    },
+    {
+      "subject_contains": "invoice",
+      "forward_to": "ap@northline.example"
+    }
+  ]
+}
