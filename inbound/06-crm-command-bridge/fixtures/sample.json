@@ -1,0 +1,25 @@
+{
+  "records": [
+    {
+      "id": "p1",
+      "email": "ada@northline.example",
+      "status": "new"
+    },
+    {
+      "id": "p2",
+      "email": "sam@keel.example",
+      "status": "new"
+    }
+  ],
+  "commands": [
+    {
+      "op": "search",
+      "email": "ada@northline.example"
+    },
+    {
+      "op": "update",
+      "id": "p1",
+      "status": "working"
+    }
+  ]
+}
