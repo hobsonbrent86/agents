@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "email": "ada@northline.example",
+      "sequence": "s1",
+      "status": "active",
+      "intent": "interested"
+    },
+    {
+      "email": "sam@keel.example",
+      "sequence": "s1",
+      "status": "active",
+      "intent": "unclear"
+    },
+    {
+      "email": "bea@yard.example",
+      "sequence": "s2",
+      "status": "active",
+      "intent": "out_of_office"
+    }
+  ]
+}
