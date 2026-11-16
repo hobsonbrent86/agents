@@ -1,0 +1,16 @@
+{
+  "devices": [
+    {
+      "name": "laptop-1",
+      "app": "Chat",
+      "state": "installed",
+      "error": ""
+    },
+    {
+      "name": "laptop-2",
+      "app": "Chat",
+      "state": "failed",
+      "error": "0x87D1041C"
+    }
+  ]
+}
