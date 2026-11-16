@@ -1,0 +1,16 @@
+{
+  "payments": [
+    {
+      "created": "2026-02-02",
+      "amount": 1200,
+      "description": "Northline annual",
+      "fee": 35
+    },
+    {
+      "created": "2026-02-11",
+      "amount": 80,
+      "description": "Keel monthly",
+      "fee": 3
+    }
+  ]
+}
