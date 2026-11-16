@@ -1,0 +1,19 @@
+{
+  "sequences": [
+    {
+      "id": "s1",
+      "name": "Operators",
+      "status": "active"
+    }
+  ],
+  "commands": [
+    {
+      "op": "search",
+      "name": "Oper"
+    },
+    {
+      "op": "pause",
+      "id": "s1"
+    }
+  ]
+}
