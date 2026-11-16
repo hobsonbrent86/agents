@@ -1,0 +1,18 @@
+{
+  "bounce_limit": 0.02,
+  "complaint_limit": 0.001,
+  "mailboxes": [
+    {
+      "address": "ada@mail.northline.example",
+      "sent": 1000,
+      "bounces": 30,
+      "complaints": 0
+    },
+    {
+      "address": "bea@mail.northline.example",
+      "sent": 1000,
+      "bounces": 5,
+      "complaints": 2
+    }
+  ]
+}
