@@ -1,0 +1,21 @@
+{
+  "minimum": 3,
+  "transactions": [
+    {
+      "merchant": "CLOUD HOST",
+      "category": "hosting"
+    },
+    {
+      "merchant": "CLOUD HOST",
+      "category": "hosting"
+    },
+    {
+      "merchant": "CLOUD HOST",
+      "category": "hosting"
+    },
+    {
+      "merchant": "CORNER LUNCH",
+      "category": "meals"
+    }
+  ]
+}
