@@ -1,0 +1,24 @@
+{
+  "rules": [
+    {
+      "contains": "CLOUD HOST",
+      "category": "hosting"
+    },
+    {
+      "contains": "OFFICE SUPPLY",
+      "category": "supplies"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "t1",
+      "merchant": "CLOUD HOST INC",
+      "amount": 42.0
+    },
+    {
+      "id": "t2",
+      "merchant": "CORNER LUNCH",
+      "amount": 14.0
+    }
+  ]
+}
