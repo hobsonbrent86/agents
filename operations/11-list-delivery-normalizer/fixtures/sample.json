@@ -1,0 +1,16 @@
+{
+  "members": [
+    {
+      "email": "ada@northline.example",
+      "delivery": "all"
+    },
+    {
+      "email": "sam@northline.example",
+      "delivery": "none"
+    },
+    {
+      "email": "bea@northline.example",
+      "delivery": "digest"
+    }
+  ]
+}
