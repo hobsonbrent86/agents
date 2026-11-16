@@ -1,0 +1,22 @@
+{
+  "group": {
+    "email": "ops@northline.example",
+    "reply_to": "sender",
+    "who_can_post": "anyone",
+    "moderation": "off"
+  },
+  "commands": [
+    {
+      "field": "reply_to",
+      "value": "list"
+    },
+    {
+      "field": "who_can_post",
+      "value": "members"
+    },
+    {
+      "field": "moderation",
+      "value": "members"
+    }
+  ]
+}
