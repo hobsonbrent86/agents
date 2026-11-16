@@ -1,0 +1,14 @@
+{
+  "groups": [
+    {
+      "email": "ops@northline.example",
+      "join": "invite",
+      "who_can_post": "members"
+    },
+    {
+      "email": "all@northline.example",
+      "join": "open",
+      "who_can_post": "anyone"
+    }
+  ]
+}
