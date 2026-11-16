@@ -1,0 +1,12 @@
+{
+  "can_set": [
+    "signature",
+    "reply_to"
+  ],
+  "requested": [
+    "signature",
+    "reply_to",
+    "smime",
+    "footer_html"
+  ]
+}
