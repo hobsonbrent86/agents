@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "name": "Ada",
+      "mfa": true
+    },
+    {
+      "name": "Sam",
+      "mfa": false
+    }
+  ],
+  "policies": [
+    {
+      "name": "Require MFA",
+      "state": "on"
+    },
+    {
+      "name": "Block legacy auth",
+      "state": "report"
+    }
+  ],
+  "questions": [
+    "who is missing mfa",
+    "which policies are report only"
+  ]
+}
