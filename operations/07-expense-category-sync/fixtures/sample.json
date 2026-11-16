@@ -1,0 +1,18 @@
+{
+  "sheet": [
+    {
+      "id": "e1",
+      "category": "hosting"
+    },
+    {
+      "id": "e2",
+      "category": "travel"
+    }
+  ],
+  "table": [
+    {
+      "id": "e1",
+      "category": "software"
+    }
+  ]
+}
