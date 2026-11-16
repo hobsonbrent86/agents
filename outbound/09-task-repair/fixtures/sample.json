@@ -1,0 +1,20 @@
+{
+  "contacts": [
+    {
+      "id": "p1",
+      "owner": "ada"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "t1",
+      "contact_id": "p1",
+      "owner": "sam"
+    },
+    {
+      "id": "t2",
+      "contact_id": null,
+      "owner": "ada"
+    }
+  ]
+}
