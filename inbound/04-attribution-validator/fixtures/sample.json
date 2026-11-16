@@ -1,0 +1,36 @@
+{
+  "clicks": [
+    "c1",
+    "c2"
+  ],
+  "conversions": [
+    {
+      "id": "v1",
+      "click_id": "c1",
+      "campaign": "search",
+      "amount": 100
+    },
+    {
+      "id": "v2",
+      "click_id": null,
+      "campaign": "search",
+      "amount": 40
+    },
+    {
+      "id": "v3",
+      "click_id": "missing",
+      "campaign": "social",
+      "amount": 25
+    }
+  ],
+  "spend": [
+    {
+      "campaign": "search",
+      "amount": 80
+    },
+    {
+      "campaign": "social",
+      "amount": 30
+    }
+  ]
+}
