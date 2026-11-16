@@ -1,0 +1,16 @@
+{
+  "campaigns": [
+    {
+      "name": "Search",
+      "spend": 1000,
+      "revenue": 2400,
+      "ghost_conversions": 3
+    },
+    {
+      "name": "Social",
+      "spend": 400,
+      "revenue": 100,
+      "ghost_conversions": 0
+    }
+  ]
+}
