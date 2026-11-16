@@ -1,0 +1,29 @@
+{
+  "state": "TX",
+  "kinds": [
+    "private equity",
+    "private credit"
+  ],
+  "firms": [
+    {
+      "name": "Redcedar Capital",
+      "state": "TX",
+      "kind": "private equity"
+    },
+    {
+      "name": "Lowland Credit",
+      "state": "TX",
+      "kind": "private credit"
+    },
+    {
+      "name": "Harbor Advisory",
+      "state": "TX",
+      "kind": "advisory"
+    },
+    {
+      "name": "Mesa Equity",
+      "state": "CO",
+      "kind": "private equity"
+    }
+  ]
+}
