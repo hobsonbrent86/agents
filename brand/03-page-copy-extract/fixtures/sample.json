@@ -1,0 +1,12 @@
+{
+  "pages": [
+    {
+      "url": "https://brightroute.example/product",
+      "html": "<title>Brightroute Product</title><h1>Dispatch board</h1><p>See every job.</p>"
+    },
+    {
+      "url": "https://keel.example/security",
+      "html": "<title>Keel Security</title><h1>Trust center</h1>"
+    }
+  ]
+}
