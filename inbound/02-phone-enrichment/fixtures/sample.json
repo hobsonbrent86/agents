@@ -1,0 +1,28 @@
+{
+  "companies": [
+    {
+      "domain": "northline.example",
+      "phone": "555-0100"
+    }
+  ],
+  "lookup": [
+    {
+      "domain": "keel.example",
+      "phone": "555-0144"
+    }
+  ],
+  "contacts": [
+    {
+      "email": "ada@northline.example",
+      "phone": ""
+    },
+    {
+      "email": "sam@keel.example",
+      "phone": ""
+    },
+    {
+      "email": "bea@northline.example",
+      "phone": "555-0199"
+    }
+  ]
+}
