@@ -1,0 +1,16 @@
+{
+  "people": [
+    {
+      "email": "ada@northline.example",
+      "stage": "replied"
+    },
+    {
+      "email": "sam@keel.example",
+      "stage": "no_reply"
+    },
+    {
+      "email": "bea@yard.example",
+      "stage": "replied"
+    }
+  ]
+}
