@@ -1,0 +1,16 @@
+{
+  "audiences": [
+    {
+      "name": "Operators",
+      "pain": "dispatch lives in three tools",
+      "proof": "one board for the day",
+      "cta": "See a 20 minute walkthrough"
+    },
+    {
+      "name": "Owners",
+      "pain": "margin shows up late",
+      "proof": "cost per job updates nightly",
+      "cta": "Look at last month"
+    }
+  ]
+}
