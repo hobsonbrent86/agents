@@ -1,0 +1,29 @@
+{
+  "rules": [
+    {
+      "cohort": "executives",
+      "title_contains": "chief"
+    },
+    {
+      "cohort": "operators",
+      "title_contains": "operations"
+    }
+  ],
+  "people": [
+    {
+      "email": "ada@northline.example",
+      "title": "Chief Operating Officer",
+      "enrolled": false
+    },
+    {
+      "email": "sam@keel.example",
+      "title": "VP Operations",
+      "enrolled": true
+    },
+    {
+      "email": "bea@yard.example",
+      "title": "Designer",
+      "enrolled": false
+    }
+  ]
+}
