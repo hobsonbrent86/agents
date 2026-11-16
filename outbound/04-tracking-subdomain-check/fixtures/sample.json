@@ -1,0 +1,6 @@
+{
+  "host": "track.northline.example",
+  "expected": "track.mailhost.example",
+  "actual": "track.mailhost.example",
+  "mailbox": "ada@mail.northline.example"
+}
