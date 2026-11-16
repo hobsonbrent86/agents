@@ -1,0 +1,14 @@
+{
+  "cap": 2,
+  "inboxes": [
+    "ada@mail.northline.example",
+    "bea@mail.northline.example"
+  ],
+  "queue": [
+    "m1",
+    "m2",
+    "m3",
+    "m4",
+    "m5"
+  ]
+}
