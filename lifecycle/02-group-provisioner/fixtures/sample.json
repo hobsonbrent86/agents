@@ -1,0 +1,9 @@
+{
+  "wanted": [
+    "ops@northline.example",
+    "finance@northline.example"
+  ],
+  "existing": [
+    "ops@northline.example"
+  ]
+}
