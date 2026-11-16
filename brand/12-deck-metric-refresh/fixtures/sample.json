@@ -1,0 +1,16 @@
+{
+  "metrics": {
+    "pipeline": "1.2M",
+    "customers": "40"
+  },
+  "slides": [
+    {
+      "title": "Pipeline",
+      "body": "Open pipeline is {{pipeline}}."
+    },
+    {
+      "title": "Customers",
+      "body": "{{customers}} teams on the platform."
+    }
+  ]
+}
