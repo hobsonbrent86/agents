@@ -1,0 +1,20 @@
+{
+  "have": [
+    "idp-metadata.xml",
+    "mfa-policy.txt"
+  ],
+  "controls": [
+    {
+      "name": "SAML metadata",
+      "evidence": "idp-metadata.xml"
+    },
+    {
+      "name": "MFA policy",
+      "evidence": "mfa-policy.txt"
+    },
+    {
+      "name": "Device enrollment",
+      "evidence": "mdm-export.csv"
+    }
+  ]
+}
