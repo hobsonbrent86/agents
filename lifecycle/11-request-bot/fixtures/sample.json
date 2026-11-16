@@ -1,0 +1,23 @@
+{
+  "requests": [
+    {
+      "id": 1,
+      "kind": "remind",
+      "text": "Send the invoice"
+    },
+    {
+      "id": 2,
+      "kind": "list",
+      "text": "open tasks"
+    },
+    {
+      "id": 3,
+      "kind": "unknown",
+      "text": "dance"
+    }
+  ],
+  "open_tasks": [
+    "Send the invoice",
+    "Book travel"
+  ]
+}
