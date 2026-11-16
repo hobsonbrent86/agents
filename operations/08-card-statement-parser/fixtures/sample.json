@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "contains": "HOST",
+      "category": "hosting"
+    }
+  ],
+  "lines": [
+    "02/01/2026  CLOUD HOST  42.10",
+    "02/03/2026  CITY CAFE  9.50"
+  ]
+}
