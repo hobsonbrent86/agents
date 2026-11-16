@@ -1,0 +1,19 @@
+{
+  "sites": {
+    "brightroute.example": [
+      "/product",
+      "/pricing",
+      "/blog"
+    ],
+    "yardline.example": [
+      "/platform",
+      "/customers"
+    ],
+    "keel.example": [
+      "/product",
+      "/security",
+      "/blog",
+      "/about"
+    ]
+  }
+}
