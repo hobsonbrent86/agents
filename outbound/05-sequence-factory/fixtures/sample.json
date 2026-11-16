@@ -1,0 +1,25 @@
+{
+  "name": "Operators",
+  "steps": [
+    {
+      "day": 0,
+      "channel": "email",
+      "subject": "Quick note",
+      "body": "Saw the hiring post."
+    },
+    {
+      "day": 2,
+      "channel": "social",
+      "body": "Sent a note earlier."
+    },
+    {
+      "day": 5,
+      "channel": "phone",
+      "body": "Call if no reply."
+    }
+  ],
+  "patch": {
+    "step": 1,
+    "subject": "Quick note for ops"
+  }
+}
