@@ -1,0 +1,20 @@
+{
+  "hire": "Gia",
+  "steps": [
+    {
+      "system": "mail",
+      "task": "Create mailbox",
+      "done": true
+    },
+    {
+      "system": "device",
+      "task": "Enroll laptop",
+      "done": false
+    },
+    {
+      "system": "apps",
+      "task": "Grant CRM seat",
+      "done": false
+    }
+  ]
+}
