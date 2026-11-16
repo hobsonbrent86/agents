@@ -1,0 +1,10 @@
+{
+  "group": "ops@northline.example",
+  "members": [
+    "ada@northline.example"
+  ],
+  "add": [
+    "ada@northline.example",
+    "sam@northline.example"
+  ]
+}
