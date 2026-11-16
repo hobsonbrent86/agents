@@ -1,0 +1,11 @@
+{
+  "customer": "Redcedar Logistics",
+  "before": {
+    "on_time": 86,
+    "cost_per_job": 18.4
+  },
+  "after": {
+    "on_time": 94,
+    "cost_per_job": 15.1
+  }
+}
