@@ -1,0 +1,15 @@
+{
+  "week": "2026-03-02",
+  "accounts": [
+    {
+      "name": "Northline",
+      "active_users": 18,
+      "events": 420
+    },
+    {
+      "name": "Keel Studio",
+      "active_users": 4,
+      "events": 36
+    }
+  ]
+}
