@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "email": "ada@northline.example",
+      "title": "VP Operations",
+      "employees": 400,
+      "views": 6
+    },
+    {
+      "email": "sam@keel.example",
+      "title": "Intern",
+      "employees": 12,
+      "views": 1
+    },
+    {
+      "email": "bea@yard.example",
+      "title": "Director",
+      "employees": 80,
+      "views": 3
+    }
+  ]
+}
