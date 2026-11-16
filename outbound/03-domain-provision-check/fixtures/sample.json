@@ -1,0 +1,24 @@
+{
+  "domain": "mail.northline.example",
+  "records": [
+    {
+      "type": "MX",
+      "value": "mx.mailhost.example"
+    },
+    {
+      "type": "TXT",
+      "value": "v=spf1 include:mailhost.example ~all"
+    }
+  ],
+  "mailboxes": [
+    {
+      "address": "ada@mail.northline.example",
+      "warmup": true
+    }
+  ],
+  "required": [
+    "MX",
+    "TXT",
+    "CNAME"
+  ]
+}
