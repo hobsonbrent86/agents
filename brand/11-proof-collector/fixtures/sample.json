@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "type": "quote",
+      "name": "Ada Cole",
+      "text": "The board replaced three sheets.",
+      "approved": true
+    },
+    {
+      "type": "logo",
+      "name": "Keel Studio",
+      "text": "",
+      "approved": true
+    },
+    {
+      "type": "quote",
+      "name": "Sam Lee",
+      "text": "Not cleared.",
+      "approved": false
+    }
+  ]
+}
