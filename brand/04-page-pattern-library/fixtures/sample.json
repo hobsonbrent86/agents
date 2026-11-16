@@ -1,0 +1,24 @@
+{
+  "pages": [
+    {
+      "host": "brightroute.example",
+      "type": "product"
+    },
+    {
+      "host": "brightroute.example",
+      "type": "trust"
+    },
+    {
+      "host": "yardline.example",
+      "type": "product"
+    },
+    {
+      "host": "yardline.example",
+      "type": "solutions"
+    },
+    {
+      "host": "keel.example",
+      "type": "trust"
+    }
+  ]
+}
