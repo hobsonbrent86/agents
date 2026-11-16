@@ -1,0 +1,18 @@
+{
+  "restricted_ou": "/contractors",
+  "advisor_group": "advisors@northline.example",
+  "users": [
+    {
+      "email": "gia@partner.example",
+      "ou": "/",
+      "groups": []
+    },
+    {
+      "email": "ada@northline.example",
+      "ou": "/staff",
+      "groups": [
+        "ops@northline.example"
+      ]
+    }
+  ]
+}
