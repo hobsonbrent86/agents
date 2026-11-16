@@ -1,0 +1,28 @@
+{
+  "companies": [
+    {
+      "id": "co_north",
+      "name": "Northline",
+      "domain": "northline.example"
+    },
+    {
+      "id": "co_keel",
+      "name": "Keel Studio",
+      "domain": "keel.example"
+    }
+  ],
+  "contacts": [
+    {
+      "email": "ada@northline.example",
+      "company": ""
+    },
+    {
+      "email": "sam@personal.example",
+      "company": "Keel Studio"
+    },
+    {
+      "email": "nope@elsewhere.example",
+      "company": "Unknown Shop"
+    }
+  ]
+}
