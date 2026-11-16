@@ -1,0 +1,24 @@
+{
+  "charges": [
+    {
+      "vendor": "Cloud Host",
+      "amount": 40
+    },
+    {
+      "vendor": "Cloud Host",
+      "amount": 42
+    },
+    {
+      "vendor": "Cloud Host",
+      "amount": 180
+    },
+    {
+      "vendor": "City Cafe",
+      "amount": 12
+    },
+    {
+      "vendor": "City Cafe",
+      "amount": 11
+    }
+  ]
+}
